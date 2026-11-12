@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=luixppereira&style=flat-square&color=ffa657&label=Profile+views" alt="Profile views"/>
-</p>
-
 <div align="center">
   <img src="./assets/terminal.svg" alt="whoami - Luiz Paulo Pereira, Full Stack Developer" width="100%"/>
 </div>
