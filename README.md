@@ -31,8 +31,8 @@ Full Stack Developer and student of the **Systems Analysis and Development** tec
 ### GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luixppereira&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=ffa657&icon_color=ffa657" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luixppereira&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=ffa657" alt="Most used languages"/>
+  <img height="170" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats"/>
+  <img height="170" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages"/>
 </p>
 
 <p align="center">
@@ -51,5 +51,5 @@ Full Stack Developer and student of the **Systems Analysis and Development** tec
 | [**HelpDesk Industrial**](https://github.com/Mxthxzy000/prepara-o-devexperience-2026) | Ticketing system built for the DevExperience 2026 competition. | PHP, MySQL, CSS |
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luixppereira&bg_color=0d1117&color=ffa657&line=ffa657&point=e6edf3&area=true&hide_border=true" width="100%" alt="Contribution graph"/>
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Contribution graph"/>
 </p>
